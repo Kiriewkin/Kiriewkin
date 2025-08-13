@@ -1,10 +1,10 @@
-# Привіт, я Кирило 👋
+# Hi, I'm Kyrylo 👋
 
-Frontend-розробник з понад 1.5 роками досвіду.  
-Шукаю цікаву роботу у сфері веб-розробки.  
-Захоплююсь створенням красивих та зручних веб-додатків, працюю з React, Redux та TypeScript.
+Frontend developer with over 1.5 years of experience.  
+Currently looking for an exciting opportunity in web development.  
+Passionate about building beautiful and user-friendly web applications, working with React, Redux, and TypeScript.
 
-## 🛠 Мій стек
+## 🛠 My Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -12,21 +12,21 @@ Frontend-розробник з понад 1.5 роками досвіду.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📂 Основні проєкти
-- [Sparklory](https://github.com/vladsandbox/frontend_sparklory) — проєкт для ювелірного магазину з використанням React + Redux + TypeScript  
-  🔗 Деплой: [Sparklory Live](https://frontend-sparklory.onrender.com/)
+## 📂 Featured Projects
+- [Sparklory](https://github.com/vladsandbox/frontend_sparklory) — an online jewelry store project built with React + Redux + TypeScript  
+  🔗 Live: [Sparklory Live](https://frontend-sparklory.onrender.com/)
   
-- [Booking](https://github.com/Kiriewkin/booking-react) — приклад проєкту на React + Redux + TypeScript  
-  🔗 Деплой: [Booking Live](https://kiriewkin.github.io/booking-react/)  
+- [Booking](https://github.com/Kiriewkin/booking-react) — a booking platform project using React + Redux + TypeScript  
+  🔗 Live: [Booking Live](https://kiriewkin.github.io/booking-react/)  
 
-- [Your Meal](https://github.com/Kiriewkin/yourmeal-project) — трохи JavaScript, Gulp та смачна їжа 😅  
-  🔗 Деплой: [Your Meal Live](https://kiriewkin.github.io/yourmeal-project/)  
+- [Your Meal](https://github.com/Kiriewkin/yourmeal-project) — a little bit of JavaScript, some Gulp magic, and a lot of tasty food 😅  
+  🔗 Live: [Your Meal Live](https://kiriewkin.github.io/yourmeal-project/)  
 
-- [Final Project](https://github.com/Kiriewkin/Final-project) — майже виключно HTML + SASS, Bootstrap та Gulp, так, це було на самому початку кар'єри 😅  
-  🔗 Деплой: [Final Project Live](https://kiriewkin.github.io/Final-project/)
+- [Final Project](https://github.com/Kiriewkin/Final-project) — mostly HTML + SASS, Bootstrap, and Gulp... yep, this was from the early days of my career 😅  
+  🔗 Live: [Final Project Live](https://kiriewkin.github.io/Final-project/)
 
-## 📊 Статистика GitHub
-![Kирило GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiriewkin&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Kyrylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiriewkin&show_icons=true&theme=radical)
 
-## 📫 Контакти
+## 📫 Contact Me
 [Telegram](https://t.me/kiriewka228) | [LinkedIn](https://www.linkedin.com/in/kyrylo-chebotar-75097b33a/)
