@@ -2,7 +2,7 @@
 
 Frontend developer with over 1.5 years of experience.  
 Currently looking for an exciting opportunity in web development.  
-Passionate about building beautiful and user-friendly web applications, working with React, Redux, and TypeScript.
+Passionate about building beautiful and user-friendly web applications, working with Next.js, React, Redux, and TypeScript.
 
 ## 🛠 My Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
