@@ -26,7 +26,7 @@ Passionate about building beautiful and user-friendly web applications, working 
   🔗 Live: [Final Project Live](https://kiriewkin.github.io/Final-project/)
 
 ## 📊 GitHub Stats
-![Kyrylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiriewkin&show_icons=true&theme=radical)](https://github.com/Kiriewkin)
+[![Kyrylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiriewkin&show_icons=true&theme=radical)](https://github.com/Kiriewkin)
 
 ## 📫 Contact Me
 [Telegram](https://t.me/kiriewka228) | [LinkedIn](https://www.linkedin.com/in/kyrylo-chebotar-75097b33a/)
